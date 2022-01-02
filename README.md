@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @altukhizm
 - 👀 I’m interested in data preparing, cleaning, processing ...
 - 🌱 I’m currently learning applying analytical models
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 zaid@altukhizm.com
 
 <!---
 altukhizm/altukhizm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
